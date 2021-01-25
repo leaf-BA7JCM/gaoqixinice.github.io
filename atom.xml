@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gaoqixinice.github.io</id>
     <title>高&amp;冰</title>
-    <updated>2021-01-25T06:37:06.924Z</updated>
+    <updated>2021-01-25T07:48:30.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gaoqixinice.github.io"/>
     <link rel="self" href="https://gaoqixinice.github.io/atom.xml"/>
@@ -18,7 +18,11 @@
         <updated>2021-01-25T00:59:31.000Z</updated>
         <content type="html"><![CDATA[<p>欢迎来到我的小站<br>
 本站基于github page 开发<br>
-由gridea驱动</p>
+由gridea驱动<br>
+😃本站还在测试阶段<br>
+如果您发现什么问题，欢迎在留言区留言<br>
+感谢xiaolfeng大佬（xiaolfeng.cn）以及筱锋娇流群里的大佬对本站的支持<br>
+喵~</p>
 ]]></content>
     </entry>
 </feed>

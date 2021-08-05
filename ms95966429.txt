@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 的域所有权验证文件 - 放置在网站根目录中",
+  "Domain": "gaoice.cf",
+  "Id": "1af913e4-a60e-4e21-ba3c-45fe2641a924"
+}

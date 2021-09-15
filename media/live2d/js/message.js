@@ -456,12 +456,12 @@ if(!norunFlag){
 		};
 	}
 	$(document).ready(function() {
-		var AIimgSrc = [
-			home_Path + message_Path + "model/histoire/histoire.1024/texture_00.png",
-			home_Path + message_Path + "model/histoire/histoire.1024/texture_01.png",
-			home_Path + message_Path + "model/histoire/histoire.1024/texture_02.png",
-			home_Path + message_Path + "model/histoire/histoire.1024/texture_03.png"
-		]
+// 		var AIimgSrc = [
+// 			home_Path + message_Path + "model/histoire/histoire.1024/texture_00.png",
+// 			home_Path + message_Path + "model/histoire/histoire.1024/texture_01.png",
+// 			home_Path + message_Path + "model/histoire/histoire.1024/texture_02.png",
+// 			home_Path + message_Path + "model/histoire/histoire.1024/texture_03.png"
+// 		]
 		var images = [];
 		var imgLength = AIimgSrc.length;
 		var loadingNum = 0;
